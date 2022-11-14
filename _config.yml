@@ -28,7 +28,7 @@ url: "https://fjellregionensridehall.github.io/fjellregionensridehall" # the bas
 github_username:  fjellregionensridehall
 
 # Build settings
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 

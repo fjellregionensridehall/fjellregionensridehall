@@ -7,11 +7,11 @@ permalink: /about/
 
 ## Styret
 
-Styreleder Stein Solbu
-Nestleder Elin Grindvoll
-Gransletten Trond Leet
-Berit Grindflek
-Tirill Langleite (Daglig leder)
+- Styreleder Stein Solbu
+- Nestleder Elin Grindvoll
+- Gransletten Trond Leet
+- Berit Grindflek
+- Tirill Langleite (Daglig leder)
 
 
 

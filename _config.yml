@@ -20,20 +20,19 @@
 
 title: Fjellregionens Ridehall
 email: post@ridehallen.no
+phone: 900 11 827 / 952 93 477
 description: >- # this means to ignore newlines until "baseurl:"
   Fjellregionens ridehall på Alvdal
 baseurl: "/fjellregionensridehall" # the subpath of your site, e.g. /blog
 url: "https://fjellregionensridehall.github.io/fjellregionensridehall" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-github_username:  fjellregionensridehall
+# github_username:  fjellregionensridehall
 
 # Build settings
 theme: minima
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-
-# Other parameters
-header: assets/logo_site.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.

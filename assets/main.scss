@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+header.site-header {
+    // background: black;
+    background: #528e43;
+    border-top: 0px solid #222222;
+}
+
+.site-nav .page-link {
+    color: #fff;
+}
+
+// div.site-logo {
+.site-logo-img {
+    padding: 1em 0 1em 0
+}
+
+
+@include media-query($on-palm) {
+    .site-logo-img {
+        width: 80%;
+    }
+    .site-nav .page-link {
+        color: #000;
+    }
+}

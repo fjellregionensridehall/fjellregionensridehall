@@ -16,4 +16,4 @@ Lykke til med treninger utover høsten, samt stevnestart.
 
 Ta kontakt med Marianne eller André om det skulle være noe du lurer på. 
 
-![](/assets/2021-08-05-skolestart.jpg)
+![](/fjellregionensridehall/assets/2021-08-05-skolestart.jpg)

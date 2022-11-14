@@ -1,18 +1,30 @@
 ---
 layout: page
-title: About
+title: Om oss
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Styret
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Styreleder Stein Solbu
+Nestleder Elin Grindvoll
+Gransletten Trond Leet
+Berit Grindflek
+Tirill Langleite (Daglig leder)
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+## Om Ridehallens Historie
+
+Storsteigen vgs den første landbruksskolen som fikk hestelinje i Norge. Etter 20 år var de den eneste som ikke hadde ridehall selv om vi ligger i den hardeste klimatiske sonen i Norge. Hesteriket jobbet i en årrekke for å reise en ridehall på Storsteigen.
+
+Som en av lederne i Hesteriket lovet jeg: En gang skal jeg være med å reise en ridehall ved Storsteigen.
+
+Storsteigen er en viktig skole for hele regionen innen:
+
+- Primærnæring, Naturbruk og Hestenæring.
+- Vi ser at potensielle elever til hestelinjen søker seg til skoler med fasiliteter som ridehall.
+- Ungdom som vil satse på hest som en helårs-sport flytter.
+- Vær og vind har satt en stopper for mange kurs og stevner.
+
